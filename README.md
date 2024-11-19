@@ -79,3 +79,6 @@ Este é um protótipo inicial, e alguns recursos ainda precisam ser complementad
 -   ```bash
     ./vendor/bin/sail down    
     ```
+
+## Bugs & Error
+Qualquer problema no funcionamento é só me notificar.
