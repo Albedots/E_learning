@@ -43,7 +43,7 @@ Este é um protótipo inicial, e alguns recursos ainda precisam ser complementad
 - Use o **bash** do linux ou o **wsl 2** do windows
 
 -   ```bash
-    git clone 
+    git clone https://github.com/Albedots/E_learning.git
     ```
 
 -   ```bash
