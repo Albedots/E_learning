@@ -40,29 +40,29 @@ Este é um protótipo inicial, e alguns recursos ainda precisam ser complementad
 
 ## Como rodar o projeto (passo a passo)
 
-- Use o **bash** do linux ou o **wsl 2** do windows
+Use o **bash** do linux ou o **wsl 2** do windows
 
--   ```bash
+1.  ```bash
     git clone https://github.com/Albedots/E_learning.git
     ```
 
--   ```bash
+2.  ```bash
     cd <projeto>
     ```
 
--   ```bash
+3.  ```bash
     ./vendor/bin/sail build --no-cache    
     ```
 
--   ```bash
+4.  ```bash
     ./vendor/bin/sail up -d
     ```
 
--   ```bash
+5.  ```bash
     ./vendor/bin/sail artisan migrate && ./vendor/bin/sail artisan db:seed
     ```
 
-- Entre na **URL**:`http://localhost/`
+6. Entre na **URL**:`http://localhost/`
 
 ## Login
 
