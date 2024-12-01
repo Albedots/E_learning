@@ -28,6 +28,18 @@ Este projeto foi desenvolvido como parte do teste de estágio na empresa Ecode. 
 - [ ] Contagem de Videoaulas de um curso no dashboard
 - [ ] Capacidade de reordenação dinâmica das videoaulas, cursos e módulos
 
+
+## ***Stacks***
+
+- ####  **Estrutura e ambiente da aplicação:** [Laravel Framework](https://laravel.com/)
+- ####  **Visual:** [Bootstrap](https://getbootstrap.com/), [Laravel Blade](https://laravel.com/docs/11.x/blade)
+
+- #### **ícones:** [IonIcon](https://ionic.io/ionicons)
+
+- #### **Containerização:** [Laravel Sail](https://laravel.com/docs/11.x/sail)
+
+- #### **Banco de dados** [Mysql Laravel](https://laravel.com/docs/11.x/database)
+
 ## ***Status do Projeto***
 
 Este é um protótipo inicial, e alguns recursos ainda precisam ser complementados para o pleno funcionamento da plataforma.
