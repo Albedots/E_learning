@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte do teste de estágio na empresa Ecode. 
 
 ## ***Funcionalidades Pendentes***
 
-- [ ] Contagem do total de pessoas cadastras no curso
+- [ ] ~~Contagem do total de pessoas cadastras no curso~~
 - [ ] Contagem de Videoaulas de um curso no dashboard
 - [ ] Capacidade de reordenação dinâmica das videoaulas, cursos e módulos
 
