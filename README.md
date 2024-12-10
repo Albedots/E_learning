@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# ***E-learning Platform - Projeto de Estágio (Ecode)***
+# ***E-learning Platform***
 
  ## ***Sobre o Projeto***
-
-Este projeto foi desenvolvido como parte do teste de estágio na empresa Ecode. O objetivo é criar uma plataforma de E-learning que permita a criação, edição e remoção de cursos, módulos e videoaulas, proporcionando uma experiência interativa de aprendizado online.
+O objetivo é criar uma plataforma de E-learning que permita a criação, edição e 
+remoção de cursos, módulos e videoaulas, proporcionando uma experiência interativa de aprendizado online.
 
 
 ## ***Funcionalidades***
